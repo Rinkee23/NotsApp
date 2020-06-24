@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotsApp</string>
+    <string name="nots_app">Nots App</string>
+    <string name="notes_app">Notes App</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="location">Location</string>
+    <string name="current_time">Current Time</string>
+</resources>
